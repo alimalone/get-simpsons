@@ -35,7 +35,7 @@ class App extends React.Component {
       <div className="App">
         <Getsimpsons simpson={this.state.simpson} />
         <button type="button" onClick={this.getSimpson}>
-          New !
+          New !!
         </button>
       </div>
     );
